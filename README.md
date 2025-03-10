@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Feeenn!
+# 👋 Hi there, I'm Feenn!
 
 Welcome to my GitHub portfolio, where I share my journey from **Front-End Web Development** to **Web Application Security**.
 
