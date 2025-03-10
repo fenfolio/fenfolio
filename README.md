@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio, where I share my journey from **Front-End Web Development** to **Web Application Security**.
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 - **Experienced Front-End Developer** | 10+ years of building modern, responsive websites.
 - **Cybersecurity Enthusiast** | Currently enrolled in an 8-month **Cybersecurity & Threat Management** program.
@@ -24,5 +24,3 @@ I'm documenting my hands-on projects and security research here:
 - ✅ **[Cyberdefender](https://github.com/fenfolio/challenges)** Challenges 
 
 Feel free to explore my repositories.
-
-[Visit my Home Lab](https://github.com/yourusername/home-lab-repository)
