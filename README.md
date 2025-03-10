@@ -11,11 +11,10 @@ Welcome to my GitHub portfolio, where I share my journey from **Front-End Web De
 
 ###  Front-End Development
 - Building interactive, user-friendly wesites with **HTML5**, **CSS3**, **JavaScript**, **WordPress**.
-- Optimizing performance and accessibility to enhance user experiences.
 
 ###  Cybersecurity & Ethical Hacking
-- Web security vulnerabilities: **XSS, SQL Injection, CSRF**.
-- Penetration testing using **Burp Suite, Wireshark, DVWA, Nessus, OpenVAS, Nmap, Kali Linux**.
+- Web security vulnerabilities **XSS, SQL Injection, CSRF**.
+- Penetration testing using **Burp Suite, Wireshark, DVWA, Nessus, OpenVAS, Nmap, Metasploit, Kali Linux**.
 
 ## 📂 Projects & Learning Journey
 I'm documenting my hands-on projects and security research here:
