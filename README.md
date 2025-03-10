@@ -19,8 +19,8 @@ Welcome to my GitHub portfolio, where I share my journey from **Front-End Web De
 
 ## 📂 Projects & Learning Journey
 I'm documenting my hands-on projects and security research here:
-- ✅ Building my **Home Lab**
-- ✅ Web application **Penetration Testing**
-- ✅ **Cyberdefender** Challenges
+- ✅ Building my **Home Lab [https://github.com/fenfolio/homelab]**
+- ✅ Web application **Penetration Testing [https://github.com/fenfolio/web-pentest/]**
+- ✅ **Cyberdefender** Challenges [https://github.com/fenfolio/challenges]
 
 Feel free to explore my repositories.
