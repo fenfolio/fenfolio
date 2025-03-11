@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Feenn!
 
-Welcome to my GitHub portfolio, where I share my journey from **Front-End Web Development** to **Web Application Security**.
+Welcome to my GitHub portfolio, where I share my work and projects in **Front-End Web Development** and **Cybersecurity**.
 
 ## 👩‍💻 About Me
 
 - **Experienced Front-End Developer** | 10+ years of building modern, responsive websites.
-- **Cybersecurity Enthusiast** | Currently enrolled in an 8-month **Cybersecurity & Threat Management** program.
+- **Cybersecurity Enthusiast** | Preparing for my CompTIA Security+ certification and at the same time expanding my skills in the cybersecurity industry.
 
 ## 💡 My Focus Areas
 
