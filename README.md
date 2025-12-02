@@ -16,11 +16,4 @@ Welcome to my GitHub portfolio, where I share my work and projects in **Front-En
 - Web security vulnerabilities **XSS, SQL Injection, CSRF**.
 - Penetration testing using **Burp Suite, Wireshark, DVWA, Nessus, OpenVAS, Nmap, Metasploit, Kali Linux**.
 
-## 📂 Projects & Learning Journey
-I'm documenting my hands-on projects and security research here:
-- ✅ Building my **[Home Lab](https://github.com/fenfolio/homelab)**
-- ✅ Building **[SIEM environment](https://github.com/fenfolio/siemlab)** using Splunk Enterprise, Universal Forwarders, and SOAR
-- ✅ Web application **[Penetration Testing](https://github.com/fenfolio/web-pentest/)**
-- ✅ Challenges: **[CyberDefender](https://github.com/fenfolio/challenges)**, **[TryHackMe](https://github.com/fenfolio/challenges)**
-
 Feel free to explore my repositories.
