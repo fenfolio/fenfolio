@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio, where I share my work and projects in **Front-En
 ## 💡 My Focus Areas
 
 ###  Front-End Development
-- Building interactive, user-friendly wesites with **HTML5**, **CSS3**, **JavaScript**, **WordPress**.
+- Building interactive, user-friendly websites with **HTML5**, **CSS3**, **JavaScript**, **WordPress**.
 
 ###  Cybersecurity & Ethical Hacking
 - Web security vulnerabilities **XSS, SQL Injection, CSRF**.
