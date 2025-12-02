@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio, where I share my work and projects in **Front-En
 ## 👩‍💻 About Me
 
 - **Experienced Front-End Developer** | 10+ years of building modern, responsive websites.
-- **Cybersecurity Enthusiast** | Preparing for my CompTIA Security+ certification and at the same time expanding my skills in the cybersecurity industry.
+- **Cybersecurity Enthusiast** | Expanding my skills in the cybersecurity industry.
 
 ## 💡 My Focus Areas
 
